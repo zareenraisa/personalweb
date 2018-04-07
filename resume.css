@@ -1,0 +1,41 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #eae5e5;
+	font-family: 'Roboto Slab', serif;
+}
+
+table { position: absolute;
+        left: 50%;
+        transform: translate(-50%);
+        text-align: center; 
+        width: 30%;}
+
+table th { text-align: center; }        
+
+hr {
+    max-width: 50px;
+    border-width: 3px;
+    border-color: gray;
+}
+nav {     padding: 5px;
+         text-align: center;
+         color: white;
+         font-family: 'Roboto Slab', serif;
+         background-color: #22b4ff;
+     }
+
+nav a { text-decoration:none;
+     color: white;
+         font-family: 'Roboto Slab', serif; 
+     }
+
+ nav a:hover { color: blue;
+               text-decoration:none; }
+
+
+
+
+
+
+

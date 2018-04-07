@@ -1,0 +1,76 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #eae5e5;
+         font-family: 'Roboto Slab', serif;
+}
+hr {
+    max-width: 50px;
+    border-width: 3px;
+    border-color: gray;
+}
+a {
+	text-decoration:none;
+     color: #22b4ff;
+         font-family: 'Roboto Slab', serif; 
+} 
+a:hover { color: blue;
+          text-decoration:none; }
+.col-sm-12 { padding-top: 50px; }
+
+nav {     padding: 5px;
+         text-align: center;
+         color: white;
+         font-family: 'Roboto Slab', serif;
+         background-color: #22b4ff;
+     }
+
+nav a { text-decoration:none;
+     color: white;
+         font-family: 'Roboto Slab', serif; 
+     }
+
+ nav a:hover { color: blue;
+               text-decoration:none; }
+
+input { width: 48%;
+        height: 50px;
+         }
+
+textarea { width: 97%;
+           height: 170px;
+            margin-top: 20px;
+            margin-bottom: 30px;} 
+        
+ .submit_btn {
+ 	width:50% ;
+ 	height:35px; 
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif; 
+    border-radius:5px; 
+    border:1px solid black;
+    background: none;
+    padding: 10px 20px;
+}      
+
+.btn-info  { text-decoration: none;
+                color: black;
+                width: 100%;
+                text-align: center;
+                background-color: #22b4ff;
+              }
+
+.btn:hover { background-color: #22b4ff;
+                      color: black;
+                      border: none; }
+
+.contact_form { width: 600px;
+                height: 300px;
+                
+                margin: 0 auto; }
+
+
+
+
+
+

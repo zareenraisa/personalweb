@@ -1,0 +1,64 @@
+body { margin: 0px;
+       padding: 0px;
+       background-color: #eae5e5;
+       font-family: 'Roboto Slab', serif;
+       color: black; }
+
+nav {     padding: 5px;
+         text-align: center;
+         color: white;
+         font-family: 'Roboto Slab', serif;
+         background-color: #22b4ff;
+     }
+
+nav a { text-decoration:none;
+     color: white;
+         font-family: 'Roboto Slab', serif; 
+     }
+
+ nav a:hover { color: blue;
+               text-decoration:none; }
+
+
+hr {
+    max-width: 50px;
+    border-width: 3px;
+    border-color: gray;
+}
+form {padding-top: 50px;}
+
+.th { text-align: center; }
+
+table { position: absolute;
+        left: 50%;
+        transform: translate(-50%);
+        text-align: center; 
+        width: 30%;
+      
+    }
+    td { padding:10px; }
+
+.login_body h1 { text-align: center; }
+
+
+.col-sm-12 { padding-top: 50px; }
+
+button {background-color: #22b4ff;
+         color: white; } 
+button:hover {background: #0b7dda;
+              color: white;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
